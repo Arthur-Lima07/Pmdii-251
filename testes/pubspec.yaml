@@ -1,0 +1,13 @@
+name: exerc_ia
+description: Um exemplo simples de carrinho usando Provider.
+
+environment:
+  sdk: '^3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+
+flutter:
+  uses-material-design: true
